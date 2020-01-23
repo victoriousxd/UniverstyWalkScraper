@@ -12,4 +12,5 @@ The season to look up (i.e. spring/fall) and the year.
 
 python3 ./scraper.py desired_season desired_year
 
+It outputs a list of classes in JSON format.
 
